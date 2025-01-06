@@ -1,0 +1,132 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "name": "Shirt",
+      "category": "Fashion",
+      "description": "This is a shirt ",
+      "price": 700,
+      "cost": 600,
+      "code": 3423,
+      "margin": 10,
+      "barcode": 534634643,
+      "createdAt": "2023-07-13",
+      "imageFilename": "23789034.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Chair",
+      "category": "Furniture",
+      "description": "This is a Chair ",
+      "price": 1700,
+      "cost": 1200,
+      "code": 3423,
+      "margin": 20,
+      "barcode": 534634666,
+      "createdAt": "2023-07-13",
+      "imageFilename": "12434542.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Camera",
+      "category": "Electronics",
+      "description": "This is a Camera ",
+      "price": 700,
+      "cost": 600,
+      "code": 3513,
+      "margin": 12,
+      "barcode": 534634643,
+      "createdAt": "2023-07-13",
+      "imageFilename": "23458967.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Bag",
+      "category": "Fashion",
+      "description": "This is a Bag",
+      "price": 900,
+      "cost": 400,
+      "code": 3883,
+      "margin": 30,
+      "barcode": 534622643,
+      "createdAt": "2023-07-13",
+      "imageFilename": "32459809.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Lotion",
+      "category": "Beauty",
+      "description": "This is a Body Lotion ",
+      "price": 700,
+      "cost": 600,
+      "code": 3003,
+      "margin": 8,
+      "barcode": 538834643,
+      "createdAt": "2023-07-13",
+      "imageFilename": "76547087.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Burgger",
+      "category": "Food",
+      "description": "This is a Burgger ",
+      "price": 200,
+      "cost": 100,
+      "code": 3883,
+      "margin": 6,
+      "barcode": 538784643,
+      "createdAt": "2023-07-13",
+      "imageFilename": "98906554.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Tea Cup",
+      "category": "Beauty",
+      "description": "This is a Body Tea cup ",
+      "price": 300,
+      "cost": 100,
+      "code": 3303,
+      "barcode": 538004643,
+      "margin": 30,
+      "createdAt": "2023-07-13",
+      "imageFilename": "99782312.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Pista Bottle",
+      "category": "Food",
+      "description": "This is a Pista bottle",
+      "price": 700,
+      "cost": 1600,
+      "code": 3703,
+      "margin": 50,
+      "barcode": 538534643,
+      "createdAt": "2023-07-13",
+      "imageFilename": "78678954.jpg"
+    },
+    {
+      "code": "12435",
+      "barcode": "12436587",
+      "name": "Television",
+      "price": "6000",
+      "cost": "5000",
+      "category": "electronics",
+      "imageFilename": "1735746195242_gsuit.png",
+      "description": "This is a tv from the motrola brand",
+      "createdAt": "2025-01-01T15:43:15.246Z",
+      "id": 9
+    },
+    {
+      "code": "1123",
+      "barcode": "2131",
+      "name": "Yellow book",
+      "price": 600,
+      "cost": "300",
+      "category": "all",
+      "imageFilename": "1735895263364_476ce512984383.5626f9347a117 (1).jpg",
+      "description": "This is a Yellow book",
+      "createdAt": "2025-01-03T09:07:43.367Z",
+      "id": 10
+    }
+  ]
+}
