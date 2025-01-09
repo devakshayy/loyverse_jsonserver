@@ -105,18 +105,6 @@
       "imageFilename": "78678954.jpg"
     },
     {
-      "code": "12435",
-      "barcode": "12436587",
-      "name": "Television",
-      "price": "6000",
-      "cost": "5000",
-      "category": "electronics",
-      "imageFilename": "1735746195242_gsuit.png",
-      "description": "This is a tv from the motrola brand",
-      "createdAt": "2025-01-01T15:43:15.246Z",
-      "id": 9
-    },
-    {
       "code": "1123",
       "barcode": "2131",
       "name": "Yellow book",
